@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: bisque;
+    color: darkred 
+}
+H1 {color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    font-weight: normal;
+    color: black
+}
+.bold {
+    font-weight: bold;
+    color: blue;
+}
+.topinfo {
+    font-family: cursive;
+}
+.picture {
+    background-color: aqua;
+}
+.content {
+    background-color: beige;
+}
